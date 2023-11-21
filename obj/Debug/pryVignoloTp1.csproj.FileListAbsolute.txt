@@ -1,0 +1,57 @@
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\bin\Debug\pryVignoloTp1.exe.config
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\bin\Debug\pryVignoloTp1.exe
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\bin\Debug\pryVignoloTp1.pdb
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.AssemblyReference.cache
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmArbolBinario.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmCola.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmDatosDesarrollador.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmListaDoble.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmListaSimple.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmPila.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmPrincipal.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.Properties.Resources.resources
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.GenerateResource.cache
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.exe
+C:\Users\Usuario1\OneDrive\Escritorio\pryVignoloTp1\obj\Debug\pryVignoloTp1.pdb
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\bin\Debug\pryVignoloTp1.exe.config
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\bin\Debug\pryVignoloTp1.exe
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\bin\Debug\pryVignoloTp1.pdb
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.AssemblyReference.cache
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmArbolBinario.resources
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmBaseDeDatos.resources
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmCola.resources
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmDatosDesarrollador.resources
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmListaDoble.resources
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmListaSimple.resources
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmPila.resources
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmPrincipal.resources
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.Properties.Resources.resources
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.GenerateResource.cache
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.exe
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.pdb
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmConsultaCombo.resources
+C:\Users\Usuario1\OneDrive\Escritorio\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmConsultaSQL.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\bin\Debug\pryVignoloTp1.exe.config
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\bin\Debug\pryVignoloTp1.exe
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\bin\Debug\pryVignoloTp1.pdb
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.AssemblyReference.cache
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmConsultaCombo.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmArbolBinario.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmBaseDeDatos.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmCola.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmConsultaSQL.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmDatosDesarrollador.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmListaDoble.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmListaSimple.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmPila.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.frmPrincipal.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.Properties.Resources.resources
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.GenerateResource.cache
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.exe
+C:\Users\Usuario1\OneDrive\Escritorio\IES21\semestre 3\Estructura de datos\pryVignoloTp1\obj\Debug\pryVignoloTp1.pdb
